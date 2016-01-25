@@ -6,7 +6,7 @@ Now HTML completed
 <!DOCTYPE HTML>
 <html>
   <head>
-  HTML basics completed
+  HTML basics is completed
   </head>
   
   <body>
